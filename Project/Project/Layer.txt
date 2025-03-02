@@ -1,0 +1,21 @@
+﻿Libarary Management App
+
+
+Project/
+│
+├── DataAccessLayer/
+│   ├── BookRepository.cs
+│	├── StudentRepository.cs
+│	├── UserRepository .cs
+│	├── LibraryService.cs
+│
+├── BusinessLogicLayer/
+│   ├── Book.cs
+│   ├── BorrowedBook.cs
+│   └── Student.cs
+│   └── User.cs
+│
+├── PresentationLayer/
+│   ├── Program.cs
+│   └── LibararyApp.cs
+
